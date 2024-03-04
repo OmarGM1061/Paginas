@@ -1,0 +1,899 @@
+<div aria-controls="collapse-6" aria-expanded="false" class="panel-heading collapsed" data-parent="#accordion-footer" data-toggle="collapse" href="#collapse-6" id="heading-6" role="tab">
+          <p class="panel-title">
+           <a aria-controls="collapse-6" aria-expanded="false" class="collapsed" data-parent="#accordion-footer" data-toggle="collapse" href="#collapse-6" role="button">
+            <span class="country-text">
+             México
+            </span>
+           </a>
+          </p>
+         </div>
+         <div aria-labelledby="heading-6" class="panel-collapse collapse" id="collapse-6" role="tabpanel">
+          <div class="panel-body">
+           <div class="footer-flags">
+            <div id="country-select-popover-container">
+             <div>
+              <a href="http://www.costco.com">
+               <span class="country-text">
+                United States
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.com.au">
+               <span class="country-text">
+                Australia
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.ca">
+               <span class="country-text">
+                Canada
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.fr">
+               <span class="country-text">
+                France
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.is">
+               <span class="country-text">
+                Iceland
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.co.jp">
+               <span class="country-text">
+                Japan
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.com.mx">
+               <span class="country-text">
+                Mexico
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.co.nz">
+               <span class="country-text">
+                New Zealand
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.co.kr">
+               <span class="country-text">
+                South Korea
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.es">
+               <span class="country-text">
+                Spain
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="https://www.costco.se">
+               <span class="country-text">
+                Sweden
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.com.tw">
+               <span class="country-text">
+                Taiwan
+               </span>
+              </a>
+             </div>
+             <div>
+              <a href="http://www.costco.co.uk">
+               <span class="country-text">
+                United Kingdom
+               </span>
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="panel panel-default">
+         <div aria-controls="collapse-7" aria-expanded="false" class="panel-heading collapsed" data-parent="#accordion-footer" data-toggle="collapse" href="#collapse-7" id="heading-7" role="tab">
+          <p class="panel-title">
+           <a aria-controls="collapse-7" aria-expanded="false" class="collapsed" data-parent="#accordion-footer" data-toggle="collapse" href="#collapse-7" role="button">
+            <span class="country-text">
+             Idioma
+            </span>
+           </a>
+          </p>
+         </div>
+         <div aria-labelledby="heading-7" class="panel-collapse collapse" id="collapse-7" role="tabpanel">
+          <div class="panel-body">
+           <div id="lang-select-popover-container">
+            <ul class="footer-list">
+             <li>
+              <a href="/_s/language?code=es_MX">
+               <span class="country-text">
+                Español
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="/_s/language?code=en_MX">
+               <span class="country-text">
+                English
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="text-center" id="footer-bottom">
+        <ul class="links">
+         <li>
+          <a href="/aviso-de-privacidad">
+           Términos y Condiciones
+          </a>
+         </li>
+         |
+         <li>
+          <a href="/aviso-de-privacidad">
+           Aviso de privacidad
+          </a>
+         </li>
+         |
+         <li>
+          <a href="/aviso-de-cookies">
+           Política de Cookies
+          </a>
+         </li>
+         |
+         <li>
+          <a id="cookieSettingsLink" style="cursor:pointer">
+           Configuración de Cookies
+          </a>
+         </li>
+        </ul>
+        <ul class="social hidden-xl">
+         <li>
+          <a href="https://www.facebook.com/CostcoMex" target="social">
+           <i class="fi-social-facebook" style="color:#1877f2">
+            <label class="hide">
+             Facebook
+            </label>
+           </i>
+          </a>
+         </li>
+         <li>
+          <a href="https://www.instagram.com/costco_mexico" target="social">
+           <i class="fi-social-instagram" style="color:#f00076">
+            <label class="hide">
+             Instagram
+            </label>
+           </i>
+          </a>
+         </li>
+         <li>
+          <a href="https://www.pinterest.com/CostcoMex" target="social">
+           <i class="fi-social-pinterest" style="color:#e60023">
+            <label class="hide">
+             Pinterest
+            </label>
+           </i>
+          </a>
+         </li>
+        </ul>
+        <p class="copyright">
+         © Costco de México, S.A. de C.V.
+         <span id="copyright-year">
+          2013 - 2023
+         </span>
+         .
+         <span class="rights">
+          Todos los Derechos Reservados.
+         </span>
+        </p>
+       </div>
+      </div>
+     </footer>
+    </div>
+   </footer>
+  </main>
+  <form name="accessiblityForm">
+   <input id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" type="hidden" value=""/>
+  </form>
+  <div aria-live="polite" aria-relevant="text" class="skip" id="ariaStatusMsg" role="status">
+  </div>
+  <script src="/_ui/addons/smarteditaddon/shared/common/js/webApplicationInjector.js?allow-origin=*.costco.co.uk:443,*.costco.com.mx:443,*.costco.com.tw:443,*.costco.com.au:443,*.costco.co.kr:443,*.costco.es:443,*.costco.fr:443,*.costco.is:443,*.costco.co.jp:443,*.sipint.net:443" type="text/javascript">
+  </script>
+  <!-- <script type="text/javascript" src="/_ui/responsive/common/js/jquery_extensions-min.js?v=-1922331580"></script>-->
+  <script src="/wro/libjs_responsive.js?v=-1922331580">
+  </script>
+  <script type="text/javascript">
+   /*<![CDATA[*/
+
+                var ACC = { config: {} };
+                        ACC.config.contextPath = "";
+                        ACC.config.encodedContextPath = "";
+                        ACC.config.commonResourcePath = "/_ui/responsive/common";
+                        ACC.config.themeResourcePath = "/_ui/responsive/theme-costco";
+                        ACC.config.siteResourcePath = "/_ui/responsive/site-mexico";
+                        ACC.config.rootPath = "/_ui/responsive";
+                        ACC.config.siteID = "mexico";
+                        ACC.config.CSRFToken = "";
+                        ACC.config.csrfWhitelist= 'costco.com.au,costco.co.kr,costco.com.tw,costco.co.uk,costco.com.mx,costco.co.jp,costco.is,costco.fr,costco.es'.split(",");
+                        ACC.pwdStrengthVeryWeak = "Demasiado débil";
+                        ACC.pwdStrengthWeak = "Débil";
+                        ACC.pwdStrengthMedium = "Medio";
+                        ACC.pwdStrengthStrong = "Fuerte";
+                        ACC.pwdStrengthVeryStrong = "Muy fuerte";
+                        ACC.pwdStrengthUnsafePwd = "password.strength.unsafepwd";
+                        ACC.pwdStrengthTooShortPwd = "Muy corta";
+                        ACC.pwdStrengthMinCharText = "Tu contraseña debe tener al menos %d caracteres.";
+                        ACC.accessibilityLoading = "Estamos procesando tu orden...";
+                        ACC.accessibilityStoresLoaded = "Sucursales disponibles";
+                        ACC.config.googleApiKey="AIzaSyAKjoBfaMjdZSncCjm2TANK4wQQmvZVDao";
+                        ACC.config.googleApiVersion="3.41";
+                        ACC.config.kakaoAppKey = "";
+                        ACC.config.googleApiRegion = "";
+                        ACC.config.googleUrl = "https:\/\/maps.google.com\/maps\/dir\/?api=1&destination=";
+                        ACC.config.visaCheckoutKey = '';
+                        ACC.config.accertifyApiUrl = '';
+                        ACC.config.borgunApiJsUrl = '';
+                        ACC.config.cybersourceApiJsUrl = 'https://songbird.cardinalcommerce.com/edge/v1/songbird.js';
+                        ACC.config.cybersourceApiJsJwt = '';
+                        ACC.config.cybersourceApiJsDebug = 'false' === 'true';
+                        ACC.config.cybersourceCacheBinProfiling = '' === 'true';
+                        ACC.config.cybersourceApiEnable3ds2 = '' === 'true';
+                        ACC.config.cybersourceCardinalWarningCodes = '10004'.split(",");
+                        ACC.config.cybersourceApiJsCookieTtlMillis = parseInt('7200000');
+                        ACC.config.buyNowCookieTtlMillis = parseInt('30000');
+                        ACC.config.cybersourceApiJsAuthUrl = '';
+                        ACC.config.borgunApiPublicToken = '';
+                        ACC.config.languageIso = 'es_MX';
+                        ACC.config.membershipPurchasedRequireConsent = true;
+                ACC.config.onlineRegistrationRequireConsent = true;
+                ACC.config.onlineRegistrationCityReadonly = false;
+                ACC.config.onlineRegistrationStateReadonly = false;
+                ACC.config.membershipRegistrationEnglishNamesEnglishOnly = false;
+                        ACC.config.membershipRegistrationEnglishBizNamesEnglishOnly = false;
+                        ACC.config.borgunCurrencyCode = '';
+                        ACC.config.borgunCardCheckAmount = parseFloat('') || 0;
+            ACC.config.tireServiceCenter = 'TIRE_CENTER';
+            ACC.config.changeWarehouseLink = '/tirestore-finder/tirewarehouseselectredirect';
+                        ACC.config.isOneStepCheckoutEnabled = true;
+                        ACC.config.asyncOrderPlacementEnabled = false;
+                        ACC.config.sessionId = '-';
+                        ACC.config.eddVisible = true;
+
+
+                        ACC.autocompleteUrl = '/search/autocompleteSecure';
+
+
+                ACC.currentCurrencyIsoCode ="MXN";
+
+
+        var Costco = Costco || { };
+        Costco.messages = {};
+        Costco.config = {};
+
+        Costco.config.addressValidationRegex = false ? new RegExp("^((?![\u0000-\u0019\u0500-\u29FF]|[<>]).)*$") : new RegExp("^((?![\u0000-\u0019\u0500-\u29FF]|[<>]).)*$", "i");
+
+        Costco.config.addressCityValidationRegex="";
+
+
+                Costco.config.deviceType = "DESKTOP";
+
+
+        Costco.messages.fieldRequired =  "Este campo es obligatorio";
+        Costco.messages.fieldLength =  "Verifica la longitud del texto";
+        Costco.messages.memberNoError =  "Ingresa el número de tu membresía";
+        Costco.messages.memberNameError = "Utiliza un máximo de 20 caracteres";
+                Costco.messages.memberEnglishNameError = "Error en el nombre";
+                Costco.messages.memberEnglishEnglishOnlyNameError = "Please enter English characters only";
+                Costco.messages.combinedNameError = "Please enter a name between 4 and 80 characters.";
+        Costco.messages.memberEmailError =  "Ingresa un correo electrónico válido";
+        Costco.messages.digitsOnly =  "Utilice sólo números";
+        Costco.messages.memberReceiverNameError=  "Please enter a name between 1 and 87 characters.";
+
+                Costco.messages.passwordErrorRequired =  "Verifica la contraseña ingresada.";
+                Costco.messages.passwordErrorTooShort =  "Tu contraseña debe tener al menos 8 caracteres.";
+                Costco.messages.passwordErrorTooLong  =  "Tu contraseña no debe tener más de 20 caracteres.";
+                Costco.messages.passwordRules         =  "Tu contraseña debe tener entre 8 y 20 caracteres. Asegúrate de incluir al menos una letra mayúscula, un número y un caracter especial excepto \u003Cstrong\u003E&quot; # &lt;\u003C\/strong\u003E y \u003Cstrong\u003E&gt;\u003C\/strong\u003E. Debe ser diferente a cualquiera de tus contraseñas anteriores.";
+
+                Costco.messages.password2Error =  "costcomemberregister.messages.password2Error";
+        Costco.messages.phoneNumberError =  "Ingresa un número de teléfono válido";
+        Costco.messages.bizNumberError =  "Please enter a valid business register number.";
+        Costco.messages.emailError =  "Ingresa una dirección de correo electrónica válida";
+                Costco.messages.emailError_required =  "Ingresa una dirección de correo electrónica válida";
+                Costco.messages.emailError_invalid =  "La dirección ingresada no es una dirección de correo electrónico válida.";    
+        Costco.messages.emailConfirmError =  "Tu correo no coincide con el anterior";
+        Costco.messages.sameEmailError =  "La dirección de correo electrónico debe ser diferente a la dirección de correo electrónico principal.";
+        Costco.messages.passwordConfirmError =  "tu contraseña no coincide";
+                Costco.messages.emailSignupSuccess =  "A partir de este momento recibirás notificaciones de Costco México.";
+        Costco.messages.emailSignupFail =  "Intente de nuevo";
+        Costco.messages.pdpQtyRequiredError =  "Este campo es obligatorio";
+
+
+        Costco.messages.pdpQtyRangeError =  function(min, max) {
+                return 'Ingresa una cantidad mayor a '+ min + ' y menor a ' + max + '';
+        };
+        Costco.messages.pdpQtyModulusError =  function(mod) {
+                return 'Ingresa la cantidad en múltiplos de '+ mod + '';
+        };
+
+        Costco.messages.pdpQtyMultipleError =  "Cantidad incorrecta";
+        Costco.messages.shareCopy =  "Copiar al portapapeles";
+                Costco.messages.copiedToClipboard =  "Copiado del portapapeles";
+                Costco.messages.addedToWishlist = "El artículo ha sido agregado a su lista de deseos";
+                Costco.messages.productAgeRestriction = "Debe tener al menos {0} años para comprar este producto";
+        Costco.messages.dateRestriction = "Por favor Selecciona un día disponible de entrega valido";
+                Costco.messages.removedFromWishlist = "El artículo ha sido eliminado de su lista de deseos";
+                Costco.messages.preorderGeneralError = "Something went wrong. Please reload the page and try again.";
+                Costco.messages.generalerror = "Verifica tu información";
+                Costco.messages.generalBadServiceCallError = "Ocurrió un error al procesar la validación. Inténtalo de nuevo.";      
+                Costco.messages.cardTypeCodeErrorRequired = "Please select a card type";
+                Costco.messages.nameOnCardErrorRequired = "Please enter name on the card";
+                Costco.messages.cardNumberErrorRequired = "Por favor ingresa un número de tarjeta válido";
+                Costco.messages.expiryMonthErrorRequired = "Please select expiry month of the card";
+                Costco.messages.expiryDateErrorRequired = "Please select expiry year of the card";
+                Costco.messages.issueNumberErrorRequired = "Verifica el CVV al reverso de tu tarjeta";
+                Costco.messages.addressValidationGeneralError = "Ocurrió un error de comunicación. Carga nuevamente la página e Inténtalo de nuevo.";
+                Costco.messages.addressRemovalGeneralError = "No es posible borrar la dirección predeterminada";
+                Costco.messages.storeDetailsLink = "Detalles";
+                Costco.messages.getDirectionsLink = "Indicaciones";
+                Costco.messages.storeDetailsTel = "Tel";
+                Costco.messages.storeDetailsEmail = "Correo electrónico";
+            Costco.messages.itemAddedToWishlist =  "Agregado a su lista de deseos";
+            Costco.messages.pdpMessage =  "Mensaje PDP";
+                Costco.messages.datePickerError =  "Selecciona una fecha válida";
+                Costco.messages.itemCaNotBeAddedToWishList =  "No fue posible agregar el artículo a su lista de deseos";
+                Costco.messages.nationalIDError =  "Please enter a valid National\/ARC ID.";
+                Costco.messages.blacklistedMessage=  "Ocurrió un error al procesar tu solicitud. Por favor intenta nuevamente o ponte en contacto con nuestro Centro de Atención a Socios para obtener ayuda.";
+            Costco.messages.missingStateMessage=  "Es necesario indicar el estado al que pertenece tu dirección";
+                Costco.messages.businessRegistrationError =  "Ingresa el RFC de su Razón Social";
+                Costco.messages.bizNationalIDError="Please enter a valid biz National ID.";
+                Costco.messages.identityNumberError="Please enter a valid number.";
+                Costco.messages.regularIdentityNumberError="Please enter a valid number.";
+                Costco.messages.businessNameError =  "Ingresa el nombre de la Razón Social";
+                Costco.messages.couponGenericError =  "Ocurrió un error al aplicar el cupón a tu orden.";
+                Costco.messages.couponInvalidError =  "Cupón inválido.";
+                Costco.messages.couponExpiredError =  "El cupón no está vigente.";
+                Costco.messages.couponNotApplicableError =  "Cupón agotado. Inténtalo mañana nuevamente.";
+                Costco.messages.couponRemoveError =  "Ocurrió un error al intentar eliminar el cupón de tu orden.";
+                Costco.messages.couponAlreadyInCartError =  "El cupón ya está aplicado en tu orden.";
+                Costco.messages.notApplicablePromotionError =  "Tu orden no califica para redimir el cupón.";
+                Costco.messages.expiryDateErrorFormat = "Fecha de expiración invalida";
+                Costco.messages.citizenCarrierError = "Please enter a valid 16-character carrier id";
+                Costco.messages.mobileCarrierError = "Please enter a valid mobile carrier id";
+                Costco.messages.otherCharityError = "Please enter a numeric value between 3 and 7 characters";
+                Costco.messages.companyIdError = "Please enter a numeric value with exactly 8 characters";
+                Costco.messages.invoiceAddress1LengthError = "Please enter a value with max 60 characters";
+                Costco.messages.invoiceAddress2LengthError = "Please enter a value with max 60 characters";
+                Costco.messages.completeName = "Please enter your first name and surname.";
+                Costco.messages.serviceCenter = "Centro llantero:";
+                Costco.messages.telephone = "Tel:";
+                Costco.messages.selectWarehouse = "Seleccionar";
+                Costco.messages.selectWarehouseLink = "\/tirestore-finder\/select?selectedWarehouseCode=";
+                Costco.messages.changeSearchLink = "\/results\/front";
+                Costco.messages.changeCartLink = "\/cart";
+                Costco.messages.changeCheckoutLink = "\/costcocheckout\/multi";
+                Costco.messages.cancelPayPalBillingAgreementError = "Ocurrió un error al intentar eliminar el pago con PayPal. Inténtalo de nuevo.";
+                Costco.messages.payPalError = "Ocurrió un error en PayPal";
+                Costco.config.paypalbuttoncolor = 'silver';
+                Costco.config.paypalbuttonlabel = 'pay';
+                Costco.config.paypalbuttonchangecolor = 'white';
+                Costco.config.paypalbuttonchangelabel = 'paypal';
+                Costco.messages.checkboxValidationTireSelection = "Marque la casilla de verificacion para continuar";
+                Costco.messages.tiresearchregistrationvalidateerrormessage="Ingrese el numero de registro para proceder";
+                Costco.messages.tiresearchsizevalidateerrormessage="Este campo es requerido";
+                Costco.messages.tiresearchvehiclevalidateerrormessage="Este campo es requerido";
+                Costco.messages.tiresearchregistrationvalidationtext="No podemos ubicar el registro de su vehiculo. Verifique que el 
+registro ingresado sea correcto o, alternativamente, busque por tamano de llanta.";
+                Costco.messages.tiresearchregistrationtiresnotfoundtext="Currently there are no tire products available for the selected registration number.";
+                Costco.messages.tirecompatibilityregistrationvalidationtext="El número de placa no es válido. Comprueba que la información introducida es correcta.";
+                Costco.messages.tirecompatibilitycheckfailedtext = {
+                    default: function (year, make, model, version){
+                                return 'Las llantas seleccionadas no coinciden con el modelo recomendado por el fabricante original de refacciones para tu {0} {1} {2} {3}. El tamaño de las llantas no es la correcta para tu vehículo.'.replace('{0}', year).replace('{1}', make).replace('{2}', model).replace('{3}', version? version : '')
+                        },
+                        manufacturerInCompatible: function (year, make, model, version){
+                                return 'La llanta seleccionada no coincide con las llantas recomendadas por el fabricante de acesorios originales para {0} {1} {2} {3}. El fabricante de estas llantas no es compatible para tu vehículo.'.replace('{0}', year).replace('{1}', make).replace('{2}', model).replace('{3}', version? version : '')
+                        }
+                };
+                Costco.messages.tiresearchvehiclevalidationtext="Para continuar, complete todos los campos requeridos a continuación:";
+                Costco.messages.tiresearchvehicletiresnotfoundtext="Por el momento no contamos con el modelo de llanta recomendado para tu vehículo.";
+                Costco.messages.tiresearchvehiclenotfoundtext="Por el momento no contamos con el modelo de llanta recomendado para tu vehículo.";
+                Costco.messages.tiresearchsizevalidationtext="Para proceder, complete todos los campos de tamano de llanta requeridos a continuacion.";
+                Costco.messages.taxIDError="Ingresa un RFC válido";
+                Costco.messages.invalidError="Por favor, valide la información que ingresó";
+                Costco.messages.cashCardApplied="Utilizaremos el saldo en tu Cash Card";
+                Costco.messages.cashCardRemoved="Se eliminó la Cash Card de tu orden";
+                Costco.messages.cashCardFullCover="El saldo de tu Cash Card cubre el monto total de la orden";
+                Costco.messages.tiresearchregistrationregexvalidationerrormessage = "Utiliza únicamente letras y números";
+                Costco.messages.notifyMeBtn = "Avísame cuando esté disponible";
+                Costco.messages.notNotifyMeBtn = "Cancelar la notificación";
+                Costco.messages.staticModalClose = "Cerrar";
+                Costco.messages.checkOutConfirmationPaymentMethodPopupTitle = "Cash Cards utilizadas";
+                Costco.messages.specialCharError="costcomemberregister.messages.specialCharError";
+                Costco.messages.allowNonNumericCharacter =  "Please enter a digits only postcode valid for the country of the address";
+                Costco.messages.notAllowSpecialCharsRule = "Special characters not allowed (^\/)";
+                Costco.messages.postCodeError =  "Please enter valid postalCode";
+                Costco.messages.chineseCharError = "Please verify the field length.";
+                Costco.messages.invoiceChineseCharError = "Please verify the field length.";
+
+                Costco.messages.cashCardNumberRequired =  "MX-Card Number is required.";
+                Costco.messages.cashCardNumberDigitsOnly =  "MX-Please enter only digits";
+                Costco.messages.cashCardNumberLength =  "MX-Please verify card number length.";
+                Costco.messages.cashCardPinRequired =  "MX-PIN is required.";
+                Costco.messages.cashCardPinDigitsOnly =  "MX-Please enter only digits";
+                Costco.messages.cashCardPinInvalidError="MX-Please validate the information you entered.";
+                Costco.messages.cashCardPinLength =  "MX-Please verify pin length.";
+
+                Costco.messages.shopCardApplied="Se aplicó el saldo de tu Cash Card a la orden";
+                Costco.messages.shopCardFullCover="La Cash Card aplicada cubre el monto total de tu orden";
+                Costco.messages.shopCardInvalid="Número de Cash Card inválido. Utiliza otra forma de pago o llama a nuestro Centro de Atención a Socios.";
+                Costco.messages.shopCardZeroBalance="La Cash Card con terminación {0} no tiene saldo. Selecciona una tarjeta de crédito o débito para realizar el pago completo de tu orden.";
+                Costco.messages.shopCardInsufficientBalance="La Cash Card con terminación {0} no tiene saldo suficiente para cubrir el total de tu orden. Selecciona una tarjeta de crédito o débito a la que se cobrará el faltante.";
+                Costco.messages.shopCardNumberRequired =  "Escribe el número de tu tarjeta";
+                Costco.messages.shopCardNumberDigitsOnly =  "Utiliza números sólamente";
+                Costco.messages.shopCardNumberLength =  "Verifica el número de tu tarjeta";
+                Costco.messages.shopCardPinRequired =  "Ingresa tu PIN";
+                Costco.messages.shopCardPinDigitsOnly =  "Utiliza números sólamente";
+                Costco.messages.shopCardPinInvalidError="Verifica la información que ingresaste";
+                Costco.messages.shopCardPinLength =  "Verifica tu PIN";
+
+                Costco.messages.deliveryInstructionsGeneralError =  "Ocurrió un error. Refresca esta página e inténtalo de nuevo.";  
+
+                Costco.messages.tiresearchregistrationregexvalidationerrormessage = "Utiliza únicamente letras y números";
+        Costco.messages.notifyMeBtn = "Avísame cuando esté disponible";
+        Costco.messages.notNotifyMeBtn = "Cancelar la notificación";
+        Costco.messages.staticModalClose = "Cerrar";
+
+        Costco.messages.creditCardApplicationError='Tu solicitud no pudo ser procesada. Por favor inténtalo más tarde.';
+        Costco.messages.creditCardApplicationExists='You have already applied for a Credit Card.';
+
+                Costco.messages.tokenFailure =  "Sorry, there was an error processing your credit card. Please try again.";
+                Costco.messages.updateEmailError=  "Hubo un error. Intenta nuevamente";
+                Costco.messages.validateAddress=  "Please validate the address.";
+        Costco.messages.globalMessageValidateAddress=  "Por favor valida tu dirección.";
+                Costco.messages.membershipUpgradeConsentRequired =  "Debe aceptar el reglamento del Club";
+
+                Costco.messages.forgottenpassword = {
+                        generalError: "Ocurrió un problema. Actualiza la página e inténtalo de nuevo.",
+                        memberNoFormatError: "El código debe ser de {0} dígitos",
+                }
+
+                Costco.messages.mfa = {
+                        generalError: 'Algo salió mal. Vuelve a cargar la página e inténtalo nuevamente.',
+                        otpCodeLength: 'El código debe ser de 6 dígitos',
+                        successOnboarding: '¡Felicidades! Activaste la verificación en dos pasos.',
+                        otpInvalid: 'Este código no es válido.',
+                        otpExpired:'El código único ha expirado. Haz \u003Ca href=\"javascript:void(0)\" class=\"js-resend-otp-code\"\u003Eclic aquí\u003C\/a\u003E para que te enviemos un código nuevo.',
+                        otpFailed:'Ocurrió un problema al generar tu código. \u003Ca href=\"javascript:void(0)\" class=\"js-resend-otp-code\"\u003EHaz clic aquí\u003C\/a\u003E para que te enviemos un código nuevo e inténtalo más tarde.',
+                        otpAccountLocked:'Tu cuenta ha sido bloqueada. Inténtalo más tarde o ponte en contacto con nuestro centro de 
+Atención a Socios.',
+                        otpPrcLocked:'Recupera tu Contraseña está bloqueado temporalmente. Por favor intenta más tarde',
+                        verifyOtpCode: 'Ingresa el código de verificación',
+                        mfaUpdatedContactEmailAlreadyInUse: 'El correo electrónico ya está registrado, utiliza uno diferente.',      
+                };
+
+        Costco.messages.smsLogin = {
+            phoneNumberRequired: 'Ingresa un número de teléfono',
+            passCodeRequired: 'Escribe en este campo el código de verificación.',
+            phoneNumberError: 'Ingresa un número de teléfono válido.',
+                        otpGenerateGeneralError: 'No se generó el código de verificación. Inténtalo de nuevo más tarde o ponte en contacto con nuestro Centro de Atención al Socio.',
+                        otpVerifyGeneralError: 'No fue posible validar el código de verificación. Inténtalo de nuevo más tarde o ponte en contacto con nuestro Centro de Atención al Socio.',
+                        otpCodeLength: 'El código debe contener 6 dígitos',
+                        otpInvalid: 'Código inválido',
+            otpExpired:'El código ha expirado. Haz \u003Ca href=\"password:void(0)\" class=\"js-resend-sms-login-otp-code\"\u003Eclic aquí\u003C\/a\u003E para generar un nuevo código.',
+            otpAccountFailed:'Ocurrió un error durante la verificación del código de seguridad. \u003Ca href=\"password:void(0)\" class=\"js-resend-sms-login-otp-code\"\u003ESolicítalo de nuevo\u003C\/a\u003E o intenta otra vez más tarde.',
+            otpFailed:'Ocurrió un problema técnico y no fue posible generar el código. Haz \u003Ca href=\"password:void(0)\" class=\"js-resend-sms-login-otp-code\"\u003Eclic aquí\u003C\/a\u003E para recibir uno nuevo, inténtalo más tarde o ponte en contacto con nuestro Centro de Atención al Socio.',
+            otpDisabled:'Excediste el número de intentos para iniciar sesión. Inténtalo más tarde o ponte en contacto con nuestro Centro de Atención al Socio.',
+                };
+
+                Costco.messages.tiresearchregistrationregexvalidationerrormessage = 'Utiliza únicamente letras y números';
+        Costco.messages.notifyMeBtn = 'Avísame cuando esté disponible';
+        Costco.messages.notNotifyMeBtn = 'Cancelar la notificación';
+        Costco.messages.staticModalClose = 'Cerrar';
+                Costco.messages.passwordVerdicts = [
+                        ACC.pwdStrengthTooShortPwd,
+                        ACC.pwdStrengthVeryWeak,
+                        ACC.pwdStrengthWeak,
+                        ACC.pwdStrengthMedium,
+                        ACC.pwdStrengthStrong,
+                        ACC.pwdStrengthVeryStrong
+                ];
+
+                Costco.messages.invalidDeliveryPostalCode = {
+                        deliveryTitle: 'Servicio No Disponible',
+                        continueShopping: 'Seguir Comprando',
+                        postalCodeOutOfRange: function (postalCode){
+                                return 'Lo sentimos, por el momento no contamos con productos disponibles para entrega en el Código Postal {0}.'.replace('{0}', postalCode)
+                        }
+                };
+
+                Costco.messages.generalShipping = {
+                        deliveryPopupTitle: 'Código Postal de Entrega',
+                        currentOrder: 'Total de tu orden: {0}',
+                        addMoreToQualify: function (amount, displayName) {
+                                return 'Agrega  \u003Cspan class=\"bold\"\u003E{0} más\u003C\/span\u003E para {1}'.replace('{0}', amount).replace('{1}', displayName)
+                        },
+                        deliveryQualified: function(displayName) {
+                                return 'Tu orden aplica para {0}'.replace('{0}', displayName);
+                        },
+                        addMoreToAvoid: function (amount, surcharge) {
+                                return '\u003Cspan class=\"bold\"\u003EAgrega {0} para evitar un cargo de {1}\u003C\/span\u003E por Servicio de Entrega'.replace('{0}', amount).replace('{1}', surcharge)
+                        },
+                        surchargeAppliedWithThresholdMessage: function (fee, threshold) {
+                                return 'El Servicio de Entrega por {0} será eliminado si el total de tu orden es mayor o igual a {1}'.replace('{0}', fee).replace('{1}', threshold)
+                        },
+                        surchargeAppliedMessage: function (fee) {
+                                return '{0} fee'.replace('{0}', fee)
+                        },
+                        deliveryFeeWaivedMessage: function(){
+                                return '<span class="bold">No se aplicará un cargo adicional por servicio de entrega.</span>'        
+                        },
+                        deliverySurchargeFeeWaivedMessage: function(){
+                                return 'Sin cargo por Servicio de Entrega'
+                        },
+                        deliveryFeeMessage: function(amount){
+                                return 'Servicio de Entrega: {0}'.replace('{0}', amount)
+                        },
+                        surchargeAddMoreToAvoid: function (amount, surcharge) {
+                                return '\u003Cspan class=\"bold\"\u003EAgrega {0} para evitar un cargo de {1}\u003C\/span\u003E por Manejo de Producto'.replace('{0}', amount).replace('{1}', surcharge)
+                        },
+                        surchargeFeeWaivedMessage: function(){
+                                return 'No se aplicará un cargo adicional por manejo de producto.'
+                        },
+                        surchargeFeeMessage: function(amount){
+                                return 'Manejo de Producto: {0}'.replace('{0}', amount)
+                        },
+                        tonnageFeeMessage: function(amount){
+                                return 'Servicio por Tonaleje: {0}'.replace('{0}', amount)
+                        },
+                        tonnageFeeTooltipMsg:'Orders that weigh more than 2000kg in total are charged a $165 tonnage fee to account for the extra effort needed to ship. To avoid the fee, consider removing items from your Business Delivery order.',
+
+                        addMoreToReachMinQty: function(qtyToAdd, displayName) {
+                                return '\u003Cspan class=\"bold\"\u003EAgrega {0} más\u003C\/span\u003E para {1}'
+                                                .replace('{0}', qtyToAdd)
+                                                .replace('{1}', displayName)
+                        },
+                        reachedMinQty: 'Tu orden cumple con la cantidad mínima necesaria',
+                        addMoreToReachModulus: function(currentQty, modulus, displayName) {
+                                return 'Actualmente tienes {0} artículos de este programa en tu carrito. Utiliza múltiplos de {1} para que tu orden sea elegible.'
+                                                .replace('{0}', currentQty)
+                                                .replace('{1}', modulus)
+                                                .replace('{2}', displayName)
+                        },
+                        reachedModulus: 'Múltiplos necesarios.',
+                        deliveryFeeTooltipMsg: 'Realizaremos un cargo adicional a tu orden por servicio de entrega. Impuestos incluidos.'
+                };
+
+                Costco.messages.expeditedShipping = {
+                        deliveryTitle: 'Entrega en 2 días ',
+                        deliveryPostalCode: 'Código Postal de Entrega',
+                        invalidPostalCode: 'Lo sentimos, por el momento no podemos entregar en el Código Postal {0}',
+                        twoDayDeliveryMessage: 'Entrega al día siguiente',
+                        surchargeWaivedMessage: 'Envío sin costo',
+                        postalCodeChange: 'Cambiar CP',
+                        currentOrder: 'Tu orden {0}',
+                        continueShopping: 'Seguir Comprando',
+                        deliveryDetails: 'Más Información',
+                        postalCodeOutOfRange: function (postalCode){
+                                return 'Lo sentimos, por el momento no podemos entregar en el Código Postal {0}'.replace('{0}', postalCode)
+                        },
+                        addMoreToAvoidSurcharge: function (amount) {
+                                return '\u003Cspan class=\"bold\"\u003EAgrega {0} más\u003C\/span\u003E para recibir tus productos sin costo de envío*'.replace('{0}', amount)
+                        },
+                        amountLeftToBeWaived: function (amount, surcharge) {
+                                return '\u003Cspan class=\"bold\"\u003EAgrega {0}\u003C\/span\u003E y evita un cargo de {1} por servicio de entrega.'.replace('{0}', amount).replace('{1}', surcharge)
+                        },
+                        deliveryFeeMessage: function(amount){
+                                return 'Delivery Fee: {0}'.replace('{0}', amount)
+                        }
+                };
+
+                Costco.messages.checkoutPlaceOrderFailed = "No se pudo realizar tu orden";
+                Costco.messages.checkoutPlaceOrderFailedBuyNow = "Sorry, there was an error processing buy Now. Please try again.";  
+
+                Costco.messages.businessDelivery = {
+                        deliveryTitle: 'Business Delivery',
+                        continueShopping: 'Seguir Comprando',
+                        warningMessage: 'Estás cambiando el código postal de entrega de {0} a {1}. Este cambio puede afectar la disponibilidad y precio de los artículos en tu carrito.',
+                        warningMessageQuestion: '¿Estás seguro de continuar?',
+                        checkoutStepWarningMessage: 'Estás cambiando el código postal de entrega de {0} a {1}. Este cambio puede afectar la disponibilidad y precio de los artículos en tu carrito.',
+                        checkoutStepWarningMessageQuestion: 'Are you sure you want to change your delivery ZIP code?',
+                        warningEddMessage: 'Changing your postal code might change your EDD.',
+                        warningMessageTitle: 'Cambio de Código Postal',
+                        postalCodeOutOfRange: function (postalCode) {
+                                return 'Costco Business Centre does not deliver to your area. Please visit your nearest \u003Ca href=\"\"\u003ECostco Business Centre\u003C\/a\u003E or shop \u003Ca href=\"\"\u003ECostco.uk\u003C\/a\u003E for business products.'      
+                        },
+                },
+
+                Costco.messages.businessDelivery.cartGroup = {
+                        deliveryTitle: 'Business Delivery',
+                        continueShopping: 'Seguir Comprando',
+                        warningMessage: 'Se cambiará el Código Postal de entrega de {0} a {1} para {2}. Esto puede afectar la disponibilidad de los productos en tu carrito.\u003Cbr\/\u003E¿Deseas continuar con el cambio?',
+                        warningMessageQuestion: 'Estás seguro de querer cambiar el código postal?',
+                        warningEddMessage: 'Changing your postal code might change your EDD.',
+                        warningMessageTitle: 'Cambio de Código Postal',
+                        postalCodeOutOfRange: function (postalCode) {
+                                return 'Costco Business Centre does not deliver to your area. Please visit your nearest \u003Ca href=\"\"\u003ECostco Business Centre\u003C\/a\u003E or shop \u003Ca href=\"\"\u003ECostco.uk\u003C\/a\u003E for business products.'      
+                        },
+                };
+
+                Costco.messages.preorder = {
+                        noOverlapErrorMessage: 'Los artículos sobre pedido en tu carrito no se pueden entregar el mismo día. Elimina 
+alguno de ellos e inténtalo de nuevo.'
+                };
+
+
+                Costco.messages.visitExternalLinkModal = {
+                        header: 'Ir al sitio',
+                        body: 'Estás saliendo del sitio de internet www.costco.com.mx e ingresando a un portal distinto. \u003Cbr\u003E\u003Cbr\u003ECostco no respalda ni es responsable por el contenido, vínculos, términos, condiciones, política de privacidad o de seguridad del portal que elijas acceder. \u003Cbr\u003E\u003Cbr\u003EDa clic aquí para indicar que estás de acuerdo con esta declaración y pasar a la página de internet deseada. En caso de no aceptar, no podrás visualizar la información de ese portal.    ',
+                        cancel: 'Cancelar',
+                        visit: 'Solicitar la tarjeta de crédito Costco'
+                };
+
+                Costco.messages.removeAddressModal = {
+                        title: 'Eliminar dirección',
+                        body: '¿Estás seguro que deseas eliminar esta dirección?',
+                        yes: 'Sí',
+                        no: 'No'
+                };
+
+                Costco.messages.businessDeliveryPostalCodeError = "Costco Business Centre does not deliver to your area. Please visit your nearest \u003Ca href=\"\"\u003ECostco Business Centre\u003C\/a\u003E or shop \u003Ca href=\"\"\u003ECostco.uk\u003C\/a\u003E for business products.";
+                Costco.messages.businessDeliveryGeneralError = "Sorry something went wrong, please try again later.";
+
+                Costco.messages.invalidPaymentInfo = 'Información de pago inválida.';
+
+
+                        Costco.config.addToCartMaxQty = "500";
+
+                        Costco.config.specialCharsRegex = /[\u0000-\u0019\u0500-\u29FF]/;
+
+                                Costco.messages.forgottenpassword.memberNoFormatError = Costco.messages.forgottenpassword.memberNoFormatError.replace("{0}", 9)
+
+
+        Costco.config.newEmailValidationRegexEnabled = true;
+                Costco.config.specialCharAllowed = true;
+                Costco.config.currentStoreCountry = '';
+                Costco.config.currentStoreCountryName = '';
+                Costco.config.numericCharRegexByCountry = {};
+                Costco.config.postalFormatRegexByCountry = {};
+                Costco.config.postalCodeMaxLengthByCountry = {};
+                Costco.config.tirestorefinder = '/buscar-centro-llantero/tirewarehouseselect';
+
+
+                Costco.config.currentSiteHasPostalCodeCheck = false;
+                Costco.config.currentSiteHasPostalCodeFormat = false;
+                Costco.config.currentSiteHasBillingPostalCodeCheck = false;
+                Costco.config.coloniaRequired = true;
+                Costco.config.xmlSpecialCharsRuleCheck = false;
+                Costco.config.isQuickCaptureEnabled = false;
+
+                Costco.config.currentSitePostalCodeMaxLength = 10;
+
+
+                Costco.config.loginUrl = '\/login';
+
+
+                Costco.config.authenticationStatusUrl = '\/authentication\/status';
+                Costco.config.prefixIsMandatory = false;
+
+
+                        Costco.config.isAnonymousUser = true;
+
+                Costco.config.binLookup = true;
+                Costco.config.cardTypesLongBin = 'visa,mastercard,mastercard_eurocard';
+                Costco.config.flexLive = false;
+                Costco.config.paymentUrl = '/flex';
+                Costco.config.cybsPaymentUrl = '/costcocheckout/multi/payment-method/mexico';
+                Costco.config.isApplePayDefaultPayment = false;
+
+
+                Costco.session = { cybersourceCardinalSessionId : false};
+                Costco.session.hasAnonymousRole = '' !== 'false';
+                Costco.session.currentTireAppointmentStoreId = '';
+
+                Costco.config.rnaLength = 10;
+
+                Costco.messages.basketValidation = {
+                        lowStock : 'Se agregaron {2} a tu carrito debido a que el máximo disponible es de {3}.',
+                        movedFromPOSToStore : 'Se modificó la cantidad de artículos en tu carrito. Los artículos seleccionados podrán ser recolectados en nuestra sucursal.',
+                        unavailable : 'El artículo \u003Ca href=\"{1}\"\u003E{0}\u003C\/a\u003E no está disponible y se eliminó de tu carrito.',
+                        serviceAddOnNotAvailable : 'El servicio de \u003Ca href=\"{1}\"\u003E{0}\u003C\/a\u003E no está disponible y 
+se eliminó de tu carrito.',
+                        productNotAvailableForBOPIS : 'Alguno de los artículos en tu carrito no está disponible para ser entregado en una Sucursal Costco.',
+                        modulus : 'Se modificó la cantidad de \u003Ca href=\"{1}\" style=\"text-decoration: underline\"\u003E{0}\u003C\/a\u003E en tu carrito de {2} a {3}, por redondeo.',
+                        maxOrderQuantityExceeded : 'Sólo puedes agregar un máximo de {3} \u003Ca href=\"{1}\" style=\"text-decoration: underline\"\u003E{0}\u003C\/a\u003E a tu orden.',
+                        minimumQuantity : 'Debes agregar un mínimo de {2} - \u003Ca href=\"{1}\" style=\"text-decoration: underline\"\u003E{0}\u003C\/a\u003E a tu orden.',
+                        couponNotValid : 'Cupón inválido.',
+                        bdLowStock : 'Agregamos una cantidad de \u003Ca href=\"{1}\" style=\"text-decoration: underline\"\u003E{0}\u003C\/a\u003E menor a la deseada ya que no contamos con unidades suficientes en la sucursal {4} que cubre tu zona de entrega.\u003Cbr 
+\/\u003E Cant. Anterior: {2} - Cant. Actual: {3}',
+                        bdUnavailable : 'Eliminamos el artículo \u003Ca href=\"{1}\" style=\"text-decoration: underline\"\u003E{0}\u003C\/a\u003E de tu carrito ya que se encuentra AGOTADO en la sucursal {4} que cubre tu zona de entrega.\u003Cbr \/\u003ECant. Anterior: {2}',
+                        cartAlreadySentToMessageQueue : 'This cart has already been processed, you should get an order soon.',       
+                        noDeliveryOptionSelected : 'Selecciona un modo de envío para \u003Ca href=\"{1}\"\u003E{0}\u003C\/a\u003E',  
+                        ineligible : 'Hay un problema con tu carrito de compras. Corrije los errores para continuar.'
+                };
+
+                Costco.messages.login = {
+                        'login.error.account': 'No es posible iniciar sesión. Verifica la dirección tu correo electrónico y contraseña.',
+                        'login.error.accountmisc': 'No es posible iniciar sesión. Verifica la dirección tu correo electrónico y contraseña.',
+                        'login.error.accountactivation': 'Tu cuenta no fue activada. \u003Ca href=\"\/login\/memberactivation\/createrequest?email={0}\"\u003EHaz clic para recibir nuevamente el link de activación en tu correo electrónico.\u003C\/a\u003E',
+                        'login.error.accountblocked': 'Tu cuenta fue bloqueada.',
+                        'login.error.accountcancelled': 'Tu cuenta fue cancelada.',
+                        'login.error.accountexpired': 'Tu cuenta expiró',
+                        'login.error.accountunregistered': 'Esta cuenta no esta registrada',
+                        'login.error.accountunmatched': 'Esta cuenta no esta registrada en el sitio de Costco México',
+                        'login.error.accountactivationok': 'Tu cuenta fue activada. Inicia sesión con tu correo electrónico y contraseña.',
+                        'login.error.accountactivationokretry': 'Tu cuenta ya fue activada. Inicia sesión con el correo electrónico y la contraseña registrados.',
+                        'login.error.accountactivationcreate': 'Te enviamos un correo electrónico con un enlace para reestablecer tu 
+contraseña.',
+                        'login.error.accountactivationnotfound': 'La dirección de correo electrónico no fue registrada',
+                        'login.error.accountactivationexpired': 'Si has olvidado tu contraseña Utiliza el siguiente link para recuperarla',
+                        'login.error.accountlogindisabled': 'Excediste el número de intentos para accesar. Por tu seguridad, hemos deshabilitado tu cuenta y te pedimos actualizar tu contraseña haciendo clic en \"Recuperar Contraseña\". '.replace('{0}', '<a href="/login/pw/request">').replace('{1}', '</a>')
+                };
+
+                Costco.messages.emptyCartPage = "Tu carrito de compras está vacío.";
+
+                Costco.messages.updateEmailAddressSaveSuccess = "Se actualizó el correo electrónico de tu cuenta. Inicia sesión nuevamente.";
+        Costco.messages.validateOnlineRegisterInternationalMembershipSuccess = "Hemos validado la autenticidad de tu membresía Costco. Identificamos que tu membresía está registrada en Costco {0} y podrás ver la Política de Privacidad correspondiente en el siguiente enlace: {1}. Tu Membresía Costco te permite realizar compras internaionales, es decir, podrás realizar compras en línea en cualquiera de nuestros sitios web internacionales. Para realizar copras en cualquier de los sitios web internacionales es necesario que la dirección de envío se encuentre dentro de ese país. Toma en cuenta que la dirección de facturación predeterminada deberá coincidir con la dirección de facturación de tu forma de pago y no está restringida por el país.";
+
+        Costco.messages.checkoutPlaceOrderFailed="Ocurrió un error. Refresca la página antes de intentarlo de nuevo.";
+                Costco.messages.appointmentScheduler = {
+                        loadingAvailableDates: 'Cargando fechas disponibles',
+                        loadingAvailableTimes: 'Cargando horarios disponibles',
+                        previousDates: 'Anterior',
+                        nextDates: 'Siguiente',
+                        emptyTimeslots: 'Por el momento no hay citas disponibles. Inténtalo de nuevo más tarde.',
+                        genericError: 'Inténtalo de nuevo más tarde',
+                        selectedTime: 'Seleccionado',
+                        selectTime: 'Seleccionar',
+                        clickPrevForAvailableDates: 'Haga clic en \"Anterior\" para ver más fechas',
+                        clickNextForAvailableDates: 'Haz clic en \"Siguiente\" para ver más fechas',
+                        changeDeliveryAddress: 'You will cancel your currently selected Date & Time and will be asked to select a new one based on product availability and schedules.',
+                };
+                Costco.messages.deliveryScheduler = {
+                        loadingAvailableDates: 'Cargando Fechas Disponibles',
+                        previousDates: 'Anterior',
+                        nextDates: 'Siguiente',
+                        emptyDates: 'Por el momento no existen fechas disponibles para hacer la entrega. Inténtalo de nuevo más tarde.',
+                        genericError: 'Inténtalo de nuevo más tarde',
+                        selectDate: 'Seleccionar',
+                        clickPrevForAvailableDates: 'Haz clic en \u003Cstrong\u003EAnterior\u003C\/strong\u003E para ver más fechas',                        clickBothForAvailableDates: 'Haz clic en \u003Cstrong\u003EAnterior\u003C\/strong\u003E o \u003Cstrong\u003ESiguiente\u003C\/strong\u003E para ver más fechas',
+                        clickNextForAvailableDates: 'Haz clic en \u003Cstrong\u003ESiguiente\u003C\/strong\u003E para ver más fechas',
+                        topMessage: 'Selecciona una fecha para recibir tu artículo. Un representante de la paquetería te contactará 24 horas antes de la entrega para confirmar la hora estimada de entrega.',
+                };
+        Costco.config.isGlobalOverlapMessageDisabled = true;
+  </script>
+  <script type="text/javascript">
+   /*<![CDATA[*/
+        ACC.addons = {};        //JS holder for addons properties
+
+
+                ACC.addons.costcosipstorefront = [];
+
+                                ACC.addons.costcosipstorefront['sip.address.phone.invalidPhone.costcoSipAddressForm.phone'] = 'Enter 
+a valid phone for this country';
+
+                                ACC.addons.costcosipstorefront['Pattern.costcoSipAddressForm.postalCode'] = 'The postal code must contain 5 digits';
+
+                                ACC.addons.costcosipstorefront['sip.myaccount.address.otherAliasName.inUse'] = 'The entered alias is 
+already in use';
+
+                                ACC.addons.costcosipstorefront['Pattern.costcoSipAddressForm.phone'] = 'The phone number cannot be empty';
+
+                                ACC.addons.costcosipstorefront['register.validatemembership.steps.error'] = 'Por favor revisa la información ingresada';
+
+                                ACC.addons.costcosipstorefront['Size.costcoSipAddressForm.city'] = 'The city cannot be empty';       
+
+                                ACC.addons.costcosipstorefront['Format.costcoSipAddressForm.phone'] = 'The phone number does not appear to be valid';
+
+                                ACC.addons.costcosipstorefront['register.consent.error.general'] = 'Must agree to the collection and 
+use of mandatory terms and conditions and privacy.';
+
+                                ACC.addons.costcosipstorefront['InUse.costcoSipAddressForm.alias'] = 'The selected alias is already in use';
+
+                                ACC.addons.costcosipstorefront['sip.pages.cashcard.balance.error'] = 'Your request could not be processed, please try again later.';
+
+                                ACC.addons.costcosipstorefront['sip.address.phone.required.costcoSipAddressForm.phone'] = 'First section of phone is required';
+
+                                ACC.addons.costcosipstorefront['sip.address.phone.numeric.costcoSipAddressForm.phone'] = 'Enter a numeric value';
+
+                                ACC.addons.costcosipstorefront['Size.costcoSipAddressForm.otherAliasName'] = 'The alias must contain 
+{1}-{0} characters';
+
+                                ACC.addons.costcosipstorefront['sip.address.invalid.costcoSipAddressForm.otherAliasName'] = 'The alias must contain 2-20 characters';
+
+                                ACC.addons.costcosipstorefront['Size.deliveryNoteForm.deliveryNote'] = 'The delivery instruction cannot be more than {0} characters';
+
+                                ACC.addons.costcosipstorefront['delivery-note.save-failure'] = 'Unable to save the delivery instruction';
+
+                                ACC.addons.costcosipstorefront['carousel.previous'] = 'Previous';
+
+                                ACC.addons.costcosipstorefront['Size.costcoSipAddressForm.address2'] = 'Address line 2 must be {0} characters or less';
+
+                                ACC.addons.costcosipstorefront['product.share.title.name'] = 'Costco -';
+
+                                ACC.addons.costcosipstorefront['sip.pages.cashcard.balance.rejected'] = 'Your credentials are invalid, please try again.';
+
+                                ACC.addons.costcosipstorefront['carousel.pause'] = 'Pause';
+
+                                ACC.addons.costcosipstorefront['sip.pages.recaptcha.error'] = 'Por favor, háganos saber que no es un 
+robot';
+
+                                ACC.addons.costcosipstorefront['Size.costcoSipAddressForm.name'] = 'The name must contain {1}-{0} characters';
+
+                                ACC.addons.costcosipstorefront['Size.costcoSipAddressForm.address1'] = 'Address line 1 must be between {1} and {0} characters';
+
+                                ACC.addons.costcosipstorefront['sip.address.invalid.costcoSipAddressForm.address1'] = 'Address line 1 must be between 1 and 255 characters';
+
+                                ACC.addons.costcosipstorefront['carousel.arrow.alt.text.right'] = 'Right';
+
+                                ACC.addons.costcosipstorefront['sip.address.invalid.costcoSipAddressForm.name'] = 'Name must be between 2 and 20 characters';
+
+                                ACC.addons.costcosipstorefront['sip.address.invalid.costcoSipAddressForm.address2'] = 'Address line 2 must be between 1 and 255 characters';
+
+                                ACC.addons.costcosipstorefront['carousel.arrow.alt.text.left'] = 'Left';
+
+                                ACC.addons.costcosipstorefront['InUse.costcoSipAddressForm.otherAliasName'] = 'The entered alias is already in use';
+
+                                ACC.addons.costcosipstorefront['sip.address.invalid.costcoSipAddressForm.postalCode'] = 'Postal code 
+is invalid';
+
+                                ACC.addons.costcosipstorefront['carousel.next'] = 'Next';
+
+                                ACC.addons.costcosipstorefront['carousel.play'] = 'Play';
+
+                                ACC.addons.costcosipstorefront['checkout.payment.error'] = 'Unexpected payment error';
+
+                                ACC.addons.costcosipstorefront['sip.address-alias.max-length'] = '20';
+
+        /*]]>*/
+  </script>
+  <script src="/_ui/shared/js/generatedVariables.js" type="text/javascript">
+  </script>
+  <script src="/wro/projectjs_responsive.js?v=-1922331580">
+  </script>
+  <script src="/wro/cmsjs_responsive.js?v=-1922331580">
+  </script>
+  <script src="/wro/addons_responsive.js?v=-1922331580">
+  </script>
+  <script src="/medias/sys_master/h37/h6c/85964447809566.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   window.sessionTimeout = new Date(new Date().getTime() + 900 * 1000);
+    window.isSessionExpired = function() {
+        return new Date() >= window.sessionTimeout;
+    }
+  </script>
+  <script type="text/javascript">
+   function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                    {
+                        pageLanguage: 'es-MX',
+                        includedLanguages: 'en,es-MX',
+                        layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT,
+                        autoDisplay: false
+                    },
+                    'google_translate_element');
+        }
+  </script>
+  <script defer="defer" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript">    
+  </script>
+ </body>
+</html>

@@ -1,0 +1,17 @@
+Codigo principal
+
+#https://www.fahorro.com/prevencion-y-control-diabetes
+#https://www.supermercadossmart.com/blog
+#https://www.soriana.com/catalogo-extendido.html
+#https://www.costco.com.mx/preparateparaprimavera
+#https://farmaciasdesimilares.com/productosexclusivos/
+
+from  bs4 import BeautifulSoup
+import requests
+
+website = 'https://www.supermercadossmart.com/blog'
+results = requests.get(website)
+content = results.text
+
+soup = BeautifulSoup(content, 'lxml')
+print(soup.prettify())

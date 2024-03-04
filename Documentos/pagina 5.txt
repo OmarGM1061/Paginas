@@ -1,0 +1,827 @@
+     <div class="list-item">
+      <a class="" href="peluche-dr-simi-corporativo.html" onclick="myFunction(16)">
+       <img alt="" src="assets/images/productos/md/G_1097.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Peluche Dr. Simi corporativo
+        </p>
+        <p class="precio-producto">
+         $169.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="peluche-dr-simi-aniversario.html" onclick="myFunction(15)">
+       <img alt="" src="assets/images/productos/md/SimiAniversario.png"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Peluche Dr. Simi 25 aniversario
+        </p>
+        <p class="precio-producto">
+         $299.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="llavero-dr-simi.html" onclick="myFunction(30)">
+       <img alt="llavero del doctor simi" src="assets/images/productos/md/llavero-dr-simi.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Llavero Dr. Simi corporativo
+        </p>
+        <p class="precio-producto">
+         $77.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="esterilizador-de-biberones.html" onclick="myFunction(31)">
+       <img alt="Esterilizador para microondas de biberones" src="assets/images/productos/md/esterilizador.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Esterilizador para microondas de biberones
+        </p>
+        <p class="precio-producto">
+         $1,099.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="calentador-para-biberones.html" onclick="myFunction(33)">
+       <img alt="Calentador elÃ©ctricopara biberon" src="assets/images/productos/md/calentador.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Calentador elÃ©ctrico para biberÃ³n 1pza
+        </p>
+        <p class="precio-producto">
+         $1,349.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="bolsa-para-leche-materna.html" onclick="myFunction(34)">
+       <img alt="Bolsa para almacenar leche materna" src="assets/images/productos/md/bolsa-de-leche.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Bolsa para almacenar leche materna 180 ml
+        </p>
+        <p class="precio-producto">
+         $299.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="aciclovir-lidocaina-spray.html" onclick="myFunction(29)">
+       <img alt="" src="assets/images/productos/md/aciclovir.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Aciclovir / lidocaÃ­na spray 50 ml
+        </p>
+        <p class="precio-producto">
+         $439.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="simisure-diabetes-chocolate.html" onclick="myFunction(28)">
+       <img alt="" src="assets/images/productos/md/chocolateD.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Simisure diabetes chocolate 990 gr
+        </p>
+        <p class="precio-producto">
+         $389.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="simisure-diabetes-fresa.html" onclick="myFunction(27)">
+       <img alt="" src="assets/images/productos/md/fresaD.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Simisure diabetes fresa 990 gr
+        </p>
+        <p class="precio-producto">
+         $389.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="simisure-diabetes-vainilla.html" onclick="myFunction(26)">
+       <img alt="" src="assets/images/productos/md/vainillaD.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Simisure diabetes vainilla 990 gr
+        </p>
+        <p class="precio-producto">
+         $389.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="simisure-chocolate.html" onclick="myFunction(25)">
+       <img alt="" src="assets/images/productos/md/chocolate.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Simisure chocolate 990 gr
+        </p>
+        <p class="precio-producto">
+         $329.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="simisure-fresa.html" onclick="myFunction(24)">
+       <img alt="" src="assets/images/productos/md/fresa.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Simisure fresa 990 gr
+        </p>
+        <p class="precio-producto">
+         $329.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="simisure-vainilla.html" onclick="myFunction(23)">
+       <img alt="" src="assets/images/productos/md/vainilla.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Simisure vainilla 990 gr
+        </p>
+        <p class="precio-producto">
+         $329.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="calcetines-de-compresion.html" onclick="myFunction(22)">
+       <img alt="" src="assets/images/productos/md/Comprimidos.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         CalcetÃ­n de compresiÃ³n 3 pack unisex
+        </p>
+        <p class="precio-producto">
+         $229.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="calcetin-amarillo.html" onclick="myFunction(21)">
+       <img alt="" src="assets/images/productos/md/G_3636.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         CalcetÃ­n Dr. Simi amarillo
+        </p>
+        <p class="precio-producto">
+         $109.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="calcetin-negro.html" onclick="myFunction(20)">
+       <img alt="" src="assets/images/productos/md/G_3635.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         CalcetÃ­n Dr. Simi negro
+        </p>
+        <p class="precio-producto">
+         $109.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="calcetin-cafe.html" onclick="myFunction(19)">
+       <img alt="" src="assets/images/productos/md/G_3624.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         CalcetÃ­n Dr. Simi cafÃ©
+        </p>
+        <p class="precio-producto">
+         $109.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="calcetin-rojo.html" onclick="myFunction(18)">
+       <img alt="" src="assets/images/productos/md/G_3623.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         CalcetÃ­n Dr. Simi rojo
+        </p>
+        <p class="precio-producto">
+         $109.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="playera-azul.html" onclick="myFunction(11)">
+       <img alt="" src="assets/images/productos/md/playera-azul-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Playera azul mediana
+        </p>
+        <p class="precio-producto">
+         $379.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="playera-jaspe.html" onclick="myFunction(10)">
+       <img alt="" src="assets/images/productos/md/playera-blanca-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Playera jaspe mediana
+        </p>
+        <p class="precio-producto">
+         $309.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="mandil-cruzado-azul.html" onclick="myFunction(9)">
+       <img alt="" src="assets/images/productos/md/mandil-marino-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Mandil cruzado azul
+        </p>
+        <p class="precio-producto">
+         $419.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="mandil-cruzado-negro.html" onclick="myFunction(8)">
+       <img alt="" src="assets/images/productos/md/mandil-negro-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Mandil cruzado negro
+        </p>
+        <p class="precio-producto">
+         $419.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="mochila-ejecutiva-dr-simi.html" onclick="myFunction(1)">
+       <img alt="" src="assets/images/productos/md/SIMIMOCHILAS-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Mochila ejecutiva Dr. Simi
+        </p>
+        <p class="precio-producto">
+         $419.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="mochila-juvenil-dr-simi.html" onclick="myFunction(2)">
+       <img alt="" src="assets/images/productos/md/SIMI-MOCHILA-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Mochila juvenil Dr. Simi
+        </p>
+        <p class="precio-producto">
+         $259.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="cojin-dr-simi-charro.html" onclick="myFunction(3)">
+       <img alt="" src="assets/images/productos/md/simi-peluche-mariachi-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         CojÃ­n Dr. Simi charro
+        </p>
+        <p class="precio-producto">
+         $259.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="cojin-dr-simi-futbolista.html" onclick="myFunction(4)">
+       <img alt="" src="assets/images/productos/md/simi-peluche-seleccion-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         CojÃ­n Dr. Simi futbolista
+        </p>
+        <p class="precio-producto">
+         $259.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="cilindro-dr-simi-huichol.html" onclick="myFunction(5)">
+       <img alt="" src="assets/images/productos/md/termo-blanco-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Cilindro Dr. Simi Huichol
+        </p>
+        <p class="precio-producto">
+         $219.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="cilindro-dr-simi-astronauta.html" onclick="myFunction(6)">
+       <img alt="" src="assets/images/productos/md/termo-plateado-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Cilindro Dr. Simi astronauta
+        </p>
+        <p class="precio-producto">
+         $219.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="list-item">
+      <a class="" href="libro-mi-vida-es-lucha.html" onclick="myFunction(7)">
+       <img alt="" src="assets/images/productos/md/libro-1.jpg"/>
+       <div class="item-info-product">
+        <p class="nombre-producto">
+         Libro "Mi vida es lucha"
+        </p>
+        <p class="precio-producto">
+         $59.00
+        </p>
+        <div class="btn-comprar">
+         Ver producto
+        </div>
+       </div>
+      </a>
+     </div>
+    </div>
+    <div id="pagination-container">
+    </div>
+   </div>
+  </div>
+  <section class="bg-white pt-5">
+   <div class="container">
+    <div class="row">
+     <div class="col-lg-6 pt-5" id="quienesSomos">
+      <h2>
+       QuiÃ©nes somos
+      </h2>
+      <div class="pleca">
+      </div>
+      <p>
+       Farmacias Similares, perteneciente al Grupo Por un PaÃ­s Mejor, fue constituida el 8 de Septiembre de 1997, con la finalidad de ofrecer productos y servicios de salud a los estratos mÃ¡s desprotegidos del paÃ­s.
+      </p>
+      <p>
+       Farmacias Similares es la empresa lÃ­der en Venta y DistribuciÃ³n de Medicamentos GenÃ©ricos y Productos de Salud en MÃ©xico y AmÃ©rica Latina.
+      </p>
+      <img class="simipeluche" src="assets/images/simipeluche.jpg"/>
+     </div>
+     <div class="col-lg-6">
+      <form class="row form-contacto" id="contacto">
+       <div class="col-12">
+        <h2 class="text-white">
+         Contacto
+        </h2>
+        <div class="pleca2">
+        </div>
+       </div>
+       <div class="col-12 form-floating mb-3">
+        <input class="form-control" id="nombre" placeholder="nombre" type="text"/>
+        <label for="nombre">
+         Nombre
+        </label>
+       </div>
+       <div class="col-md-6 form-floating mb-3">
+        <input class="form-control" id="correo" placeholder="name@example.com" type="email"/>
+        <label for="correo">
+         Email
+        </label>
+       </div>
+       <div class="col-md-6 form-floating mb-3">
+        <input class="form-control" id="telefono" placeholder="TelÃ©fono" type="number"/>
+        <label for="telefono">
+         TelÃ©fono
+        </label>
+       </div>
+       <div class="col-md-6 form-floating mb-3">
+        <select aria-label="Estado" class="form-select" id="estado">
+         <option value="Aguascalientes">
+          Aguascalientes
+         </option>
+         <option value="Baja California Nte">
+          Baja California Nte
+         </option>
+         <option value="Baja California Sur">
+          Baja California Sur
+         </option>
+         <option value="Campeche">
+          Campeche
+         </option>
+         <option value="Chiapas">
+          Chiapas
+         </option>
+         <option value="Chihuahua">
+          Chihuahua
+         </option>
+         <option value="Coahuila">
+          Coahuila
+         </option>
+         <option value="Colima">
+          Colima
+         </option>
+         <option value="Ciudad de MÃ©xico">
+          Ciudad de MÃ©xico
+         </option>
+         <option value="Durango">
+          Durango
+         </option>
+         <option value="Edo de Mex">
+          Edo de Mex
+         </option>
+         <option value="Guanajuato">
+          Guanajuato
+         </option>
+         <option value="Guerrero">
+          Guerrero
+         </option>
+         <option value="Hidalgo">
+          Hidalgo
+         </option>
+         <option value="Jalisco">
+          Jalisco
+         </option>
+         <option value="Michoacan">
+          Michoacan
+         </option>
+         <option value="Morelos">
+          Morelos
+         </option>
+         <option value="Nayarit">
+          Nayarit
+         </option>
+         <option value="Nuevo Leon">
+          Nuevo Leon
+         </option>
+         <option value="Oaxaca">
+          Oaxaca
+         </option>
+         <option value="Puebla">
+          Puebla
+         </option>
+         <option value="Queretaro">
+          Queretaro
+         </option>
+         <option value="Quintana Roo">
+          Quintana Roo
+         </option>
+         <option value="San Luis Potosi">
+          San Luis Potosi
+         </option>
+         <option value="Sinaloa">
+          Sinaloa
+         </option>
+         <option value="Sonora">
+          Sonora
+         </option>
+         <option value="Tabasco">
+          Tabasco
+         </option>
+         <option value="Tamaulipas">
+          Tamaulipas
+         </option>
+         <option value="Tlaxcala">
+          Tlaxcala
+         </option>
+         <option value="Veracruz">
+          Veracruz
+         </option>
+         <option value="Yucatan">
+          Yucatan
+         </option>
+         <option value="Zacatecas">
+          Zacatecas
+         </option>
+        </select>
+        <label for="estado">
+         Seleccione un estado
+        </label>
+       </div>
+       <div class="col-md-6 form-floating mb-3">
+        <select aria-label="Asunto" class="form-select" id="asunto">
+         <option value="Producto">
+          Producto
+         </option>
+         <option value="Quejas">
+          Quejas
+         </option>
+         <option value="Sugerencias">
+          Sugerencias
+         </option>
+         <option value="Otros">
+          Otros
+         </option>
+        </select>
+        <label for="asunto">
+         Asunto
+        </label>
+       </div>
+       <div class="col-12 form-floating">
+        <textarea class="form-control" id="floatingTextarea" placeholder="Deja tus comentarios" row="4"></textarea>
+        <label for="floatingTextarea">
+         Deja tus comentarios
+        </label>
+       </div>
+       <div class="col-12">
+        <div class="form-check">
+         <input class="form-check-input" id="gridCheck" type="checkbox"/>
+         <label class="form-check-label" for="gridCheck">
+          Estoy de acuerdo con
+          <a class="text-warning" href="https://www.farmaciasdesimilares.com/#!/aviso-de-privacidad" target="_blank">
+           Aviso de Privacidad
+          </a>
+         </label>
+        </div>
+       </div>
+       <div class="col-12">
+        <button class="btn btn-enviar" type="submit">
+         Enviar
+        </button>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+  </section>
+  <footer id="footer">
+  </footer>
+  <script src="assets/js/jquery.min.js">
+  </script>
+  <script src="assets/js/menu.js">
+  </script>
+  <script crossorigin="anonymous" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js">
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/simplePagination.js/1.6/jquery.simplePagination.js">
+  </script>
+  <script>
+   /*------------------slider-----------------------------------*/
+var swiper = new Swiper(".mySwiper", {
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+      loop: true,
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false,
+      },
+    });
+
+/*------------------pagination-----------------------------------*/
+        var items = $(".list-wrapper .list-item");
+        var numItems = items.length;
+        var perPage = 12;
+
+
+        items.slice(perPage).hide();
+
+        $('#pagination-container').pagination({
+            items: numItems,
+            itemsOnPage: perPage,
+            prevText: "&laquo;",
+            nextText: "&raquo;",
+            onPageClick: function (pageNumber) {
+                var showFrom = perPage * (pageNumber - 1);
+                var showTo = showFrom + perPage;
+                items.hide().slice(showFrom, showTo).show();
+            }
+        });
+  </script>
+  <script>
+   function myFunction(id) {
+            console.log(id)
+            switch (id) {
+                case 1:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Mochila-ejecutiva" });
+                    break;
+                case 2:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Mochila-juvenil" });
+                    break;
+                case 3:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cojin-simi-charro" });
+                    break;
+                case 4:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cojin-simi-futbolista" });
+                    break;
+                case 5:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cilindro-huichol" });
+                    break;
+                case 6:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cilindro-astronauta" });
+                    break;
+                case 7:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "libro" });
+                    break;
+                case 8:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "mandil-negro" });
+                    break;
+                case 9:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "mandil-azul" });
+                    break;
+                case 10:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "playera-jaspeada-mediana" });
+                    break;
+                case 11:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "playera-azul-mediana" });
+                    break;
+                case 12:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "playera-azul-grande" });
+                    break;
+                case 14:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "playera-jaspeada-grande" });
+                    break;
+                case 15:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Peluche Dr. Simi 25 aniversario" });
+                    break;
+                case 16:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Peluche Dr. Simi corporativo" });
+                    break;
+                case 17:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Peluche Dr. Simi Planeta" });
+                    break;
+                case 18:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "CalcetÃ­n Dr. Simi rojo" });
+                    break;
+                case 19:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "CalcetÃ­n Dr. Simi cafÃ©" });
+                    break;
+                case 20:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "CalcetÃ­n Dr. Simi negro" });
+                    break;
+                case 21:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "CalcetÃ­n Dr. Simi amarillo" });
+                    break;
+                case 22:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "CalcetÃ­n De CompresiÃ³n 3 Pack Unisex" });
+                    break;
+                case 23:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Simisure vainilla 990 gr" });
+                    break;
+                case 24:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Simisure fresa 990 gr" });
+                    break;
+                case 25:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Simisure chocolate 990 gr" });
+                    break;
+                case 26:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Simisure diabetes vainilla 990 gr" });
+                    break;
+                case 27:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Simisure diabetes Fresa 990 gr" });
+                    break;
+                case 28:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Simisure diabetes Chocolate 990 gr" });
+                    break;
+                case 29:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Aciclovir / lidocaÃ­na spray 50 ml" });
+                    break;
+                case 30:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Llavero Dr. Simi corporativo" });
+                    break;
+                case 31:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Mochila-ejecutiva" });
+                    break;
+                case 32:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "Mochila-juvenil" });
+                    break;
+                case 33:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cojin-simi-charro" });
+                    break;
+                case 34:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cojin-simi-futbolista" });
+                    break;
+                case 35:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cilindro-huichol" });
+                    break;
+                case 36:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "cilindro-astronauta" });
+                    break;
+                case 37:
+                    gtag("event", "click", { "send_to": "G-4574RG9HME", "event_category": "ProductosEspeciales", "event_action": "Click", "event_label": "libro" });
+                    break;
+                default:
+                // code block
+            }
+        }
+  </script>
+ </body>
+</html>
